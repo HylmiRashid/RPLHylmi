@@ -1,5 +1,3 @@
-Tema-Tema website yang ingin saya buat:
-
 1. **DagangTrack**
     DagangTrack adalah sebuah web app yang digunakan untuk memonitoring keuangan para UMKM, seperti menghitung pemasukan, pengeluaran, laba, dan profit dari UMKM tersebut secara otomatis.
 
