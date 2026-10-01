@@ -1,3 +1,5 @@
+Build a simple full-stack web application named **DagangTrack**.
+
 **Tujuan:**
 Aplikasi web pemantau keuangan dan stok barang untuk Usaha Mikro, Kecil, dan Menengah (UMKM/Warung). Membantu pemilik usaha mencatat pencatatan harian (pemasukan, pengeluaran, laba/rugi, dan stok produk) secara digital tanpa perhitungan manual di kertas.
 
